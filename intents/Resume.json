@@ -1,0 +1,183 @@
+{
+  "id": "934580d7-0ea6-4305-bacf-2496c0effe80",
+  "name": "Resume",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "destinationName": "Download resume",
+          "url": "https://fd9cb1c8-210b-4c9b-b509-656cc3a49a16.filesusr.com/ugd/d31082_b0cfc3d0243e49de8da10885e47a626c.pdf",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "actionLink": "http://www.adhikaar.org/",
+                  "subtitle": "Mar 2020 - Jun 2020",
+                  "type": "info",
+                  "title": "UI Designer / Developer at Adhikaar"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Product Designer and Co-founder at Rocks",
+                  "actionLink": "http://www.rocksapp.co/",
+                  "type": "info",
+                  "subtitle": "Sep 2019 - Present"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "actionLink": "https://rosiemaharjan.github.io/tinydormconcert/index.html",
+                  "type": "info",
+                  "title": "UI Designer / Developer at Tiny Dorm Concerts",
+                  "subtitle": "Dec 2019 - Mar 2020"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "info",
+                  "actionLink": "https://www.healthadvocacysummit.org/",
+                  "subtitle": "Sep 2017 - Mar 2018",
+                  "title": "UX Designer at Health Advocacy Summit"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "info",
+                  "subtitle": "Sep 2017 - Present",
+                  "actionLink": "https://www.instagram.com/rosie.png/",
+                  "title": "Freelance animator, illustrator, and UX designer"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027ve also been a part-time yoga instructor for 4+ years, which has taught me a ton about communication, empathy, and... well, zen! 🧘🏽‍♀️"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Download my resume for more details 😄"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "link": "https://fd9cb1c8-210b-4c9b-b509-656cc3a49a16.filesusr.com/ugd/d31082_b0cfc3d0243e49de8da10885e47a626c.pdf",
+                      "text": "Resume"
+                    },
+                    {
+                      "text": "LinkedIn",
+                      "link": "https://www.linkedin.com/feed/"
+                    },
+                    {
+                      "link": "https://medium.com/@rosiemaharj",
+                      "text": "Case studies"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

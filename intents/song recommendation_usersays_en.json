@@ -1,0 +1,132 @@
+[
+  {
+    "id": "d174b9c1-baf3-4f30-8886-a5340c2c8c8b",
+    "data": [
+      {
+        "text": "music",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0fe2ad3-58ea-48c8-a287-4f6575c9533e",
+    "data": [
+      {
+        "text": "what kind?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2cf2d17-83b0-4cca-893a-98d0a1df4a8d",
+    "data": [
+      {
+        "text": "what kind of music",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b080b1f7-83b1-430b-9fcd-6f56d4a8163b",
+    "data": [
+      {
+        "text": "what kind of music do you listen to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4cd3831-4d45-4a1b-a5c6-d4c2c5ca7229",
+    "data": [
+      {
+        "text": "What should I listen to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c7a710d-7a22-4984-a7dc-4190414b72e1",
+    "data": [
+      {
+        "text": "what should i listen to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e405ae14-4919-4450-9808-07f03e092bf7",
+    "data": [
+      {
+        "text": "what song would you recommend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8202ea13-676b-43af-9ee0-ce702ccc2f09",
+    "data": [
+      {
+        "text": "give me a song recommendation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cc4a503-aa4f-4ec3-bb15-a2d1ca9ee1c4",
+    "data": [
+      {
+        "text": "rec",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cbb8894-482b-44fd-ad6c-8b6924b7f1d4",
+    "data": [
+      {
+        "text": "song rec",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

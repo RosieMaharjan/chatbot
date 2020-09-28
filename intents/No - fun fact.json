@@ -1,0 +1,70 @@
+{
+  "id": "cf1641bc-26b1-4aad-84fb-70f7295578fc",
+  "name": "No - fun fact",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "No-funfact-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I once filmed Mark Cuban for a music video BTS. He\u0027s pretty chill! 📹",
+            "I’m a yoga instructor and I got my 500 RYT in Nepal 🧘🏽‍♀️",
+            "I love traditional cell animation and key framing 😋 I taught myself during the pandemic!",
+            "I lived in Barcelona for a few months for my study abroad 🇪🇸 I went deep water soloing in Mallorca and I met Chris Sharma!",
+            "I once went viral on Tiktok... for my pixie cut 😅",
+            "I love to play the ukulele! 🎶",
+            "I\u0027ve played the alto saxophone for 8 years 🎷",
+            "I just bought a pair of roller skates and am learning some cool tricks! ⛸",
+            "I like to mountain bike, even though I\u0027m pretty awful at it",
+            "I\u0027ve rock climbed at mountaineered in over 8 different countries 🧗🏽‍♀️"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Tell me more!"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

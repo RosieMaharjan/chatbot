@@ -1,0 +1,92 @@
+{
+  "id": "7acace37-f844-40f7-8da7-847fbacdd72b",
+  "name": "Design path",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I do have sort of a nontraditional background in design, don\u0027t I? 😅"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well, I\u0027ve always had a love for visual design, and I taught myself Adobe -- I\u0027ve made album covers, posters, slide decks, animated promos, you name it."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Product design was a beautiful integration of these visual design skills, my background in business and research, and the tech/data analytics I learned during my undergrad -- it just made sense!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I love that this field is constantly evolving, and new design challenges that arise everyday 🤓 Most of all, I just love learning!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Why should we hire you?"
+                    },
+                    {
+                      "text": "What\u0027s next?"
+                    },
+                    {
+                      "text": "Tell me a fun fact"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

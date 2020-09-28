@@ -1,0 +1,46 @@
+{
+  "id": "d92a3063-4e83-4cf7-8a3c-713da6881ced",
+  "parentId": "cf1641bc-26b1-4aad-84fb-70f7295578fc",
+  "rootParentId": "cf1641bc-26b1-4aad-84fb-70f7295578fc",
+  "name": "Tell me more!",
+  "auto": true,
+  "contexts": [
+    "No-funfact-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "No-funfact.No-funfact-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "My favorite hobby is cell animation and key framing 😋",
+            "I\u0027ve rock climbed at mountaineered in over 8 different countries 🧗🏽‍♀️",
+            "I like to mountain bike, even though I\u0027m pretty awful at it 🚵🏽‍♀️",
+            "I just bought a pair of roller skates ⛸ and am learning some cool tricks!",
+            "I\u0027ve played the alto saxophone for 8 years 🎷and I love to play the ukulele! 🎶",
+            "I lived in Barcelona for a few months for my study abroad 🇪🇸 and I went deep water soloing in Mallorca and I met Chris Sharma!",
+            "I’m a yoga instructor and I got my 500 RYT in Nepal 🧘🏽‍♀️",
+            "I once filmed Mark Cuban for a music video BTS. He\u0027s pretty chill! 📹"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

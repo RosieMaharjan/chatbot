@@ -1,0 +1,256 @@
+[
+  {
+    "id": "299e75d5-6a1e-4c03-94cb-5639ffbf2c49",
+    "data": [
+      {
+        "text": "you don\u0027t matter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6829bde9-c39c-4b92-aac4-bd3eaf4ce4f4",
+    "data": [
+      {
+        "text": "allll lives matter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "863b6cf3-7f81-4eb6-9210-4ed0be8032a1",
+    "data": [
+      {
+        "text": "I think All lives matter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb65c4f2-5396-4052-ab60-cf941c112fdc",
+    "data": [
+      {
+        "text": "alm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36f2d58b-c205-4d0a-9809-39e0af4d7d46",
+    "data": [
+      {
+        "text": "all lives matter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0710039-e2d9-496e-80ea-a1a584f8ae3c",
+    "data": [
+      {
+        "text": "what the fuck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d994d46a-0995-4f14-a7e5-45609727da84",
+    "data": [
+      {
+        "text": "wtf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7db7873-984e-4768-a65d-c9077dc65d4c",
+    "data": [
+      {
+        "text": "you think ONLY ",
+        "userDefined": false
+      },
+      {
+        "text": "black",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " lives matter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f4533f0-6786-48e9-b5e3-dc2ca6495a04",
+    "data": [
+      {
+        "text": "So, u think ONLY ",
+        "userDefined": false
+      },
+      {
+        "text": "black",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " lives matter? Others ain\u0027t worth anything?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8634707e-9285-4096-b9bf-d6ccf1ca933a",
+    "data": [
+      {
+        "text": "Black lives don\u0027t matter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acfc1307-2afa-4f62-8eca-5e4f2fe6ca36",
+    "data": [
+      {
+        "text": "are you saying that all lives don\u0027t matter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fd368b0-605a-4a86-ab47-263318806fc6",
+    "data": [
+      {
+        "text": "you\u0027re racist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2607a376-aa36-417e-bf5d-1c2606dad48c",
+    "data": [
+      {
+        "text": "you are racist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8acce6d1-4184-47e9-b4aa-1dd0d353394f",
+    "data": [
+      {
+        "text": "why don\u0027t all lives matter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e484bc84-35cc-4caa-a371-6a00da3c8335",
+    "data": [
+      {
+        "text": "fuck you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd9fb3ec-d5bd-44c0-9018-85a363eae711",
+    "data": [
+      {
+        "text": "fuck niggers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f4abbb7-f2bf-4b46-8e62-44e150252ce6",
+    "data": [
+      {
+        "text": "As BLM, why wouldn\u0027t other people?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4e0f321-c0db-4d52-992f-65e56af6399b",
+    "data": [
+      {
+        "text": "We ALL matter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "id": "b8e7b1df-6249-46d4-a38a-162ba3590cf4",
+  "parentId": "a5d8cc00-476b-490a-b576-f9b0ed3c5376",
+  "rootParentId": "8f121c2c-1619-4fe9-adea-b677f3ac06a7",
+  "name": "Black Lives Matter - explanation",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-no.DefaultWelcomeIntent-yes-no-more",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-explanation-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "“All lives matter” is a destructive method of silencing and tone-policing the narrative of those who experience institutionalized racism everyday. It empowers voices who consciously choose to weaponize their whiteness \u0026 devalues Black victims who are murdered for simply breathing."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All lives CAN\u0027T matter until Black lives matter."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like some resources to learn more?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

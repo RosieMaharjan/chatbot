@@ -1,0 +1,39 @@
+{
+  "id": "6125b01b-76bc-45bb-a82f-466281c37182",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Whoops - I didn’t quite understand. Could you try asking me again?",
+            "Hmm, I don’t think I got that. Would you rephrase the question?",
+            "Aw jeepers, my language skills are not that advanced. Could you try asking that question to Rosie herself?",
+            "👁👄👁",
+            "I got distracted by how beautiful your eyes look! No but really, could you try asking me again?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

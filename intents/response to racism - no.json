@@ -1,0 +1,69 @@
+{
+  "id": "a67f9eb6-72fb-44b5-b725-29e63187f5d9",
+  "parentId": "0b69217d-2cef-4f3b-8eea-21d9b559b56f",
+  "rootParentId": "0b69217d-2cef-4f3b-8eea-21d9b559b56f",
+  "name": "response to racism - no",
+  "auto": true,
+  "contexts": [
+    "responsetoracism-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "responsetoracism.responsetoracism-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It certainly seems like you need it."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "text": "Why ALM is a harmful response",
+                      "link": "https://www.cbsnews.com/news/all-lives-matter-black-lives-matter/"
+                    },
+                    {
+                      "text": "\u0027All Houses Matter\u0027 analogy",
+                      "link": "https://chainsawsuit.com/comic/2016/07/07/all-houses-matter-the-extended-cut/"
+                    },
+                    {
+                      "text": "BLM Video Explanation",
+                      "link": "https://www.youtube.com/watch?v\u003dFk7ikGW6VRg"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

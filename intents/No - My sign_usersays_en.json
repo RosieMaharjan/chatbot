@@ -1,0 +1,106 @@
+[
+  {
+    "id": "f2410cd2-824f-440c-b251-55a3d4e621a5",
+    "data": [
+      {
+        "text": "Sign",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e4e7df8-3e46-4b65-abed-8e7c2ce0f7ae",
+    "data": [
+      {
+        "text": "Horoscope",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10ea2d7b-d3e9-43c1-bf80-0a1a77cb0c86",
+    "data": [
+      {
+        "text": "What\u0027s your zodiac",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "977dffd4-19c8-47bd-8b63-ad7ba2a699f9",
+    "data": [
+      {
+        "text": "What\u0027s your zodiac sign",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3762a325-3335-43e2-8399-4c798346de70",
+    "data": [
+      {
+        "text": "What sign are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfdb39b4-8e30-429c-9b2f-7604ea359858",
+    "data": [
+      {
+        "text": "What sign arWe you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c67ffd5b-5a49-4b1b-9e47-e694c56ae5bb",
+    "data": [
+      {
+        "text": "What\u0027s your sun sign",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d2228f0-0b51-48df-b41d-c7cd994bf20f",
+    "data": [
+      {
+        "text": "What\u0027s your sign?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

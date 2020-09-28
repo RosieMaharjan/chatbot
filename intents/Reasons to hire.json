@@ -1,0 +1,82 @@
+{
+  "id": "60a63006-23f4-40a5-ad96-5b92e4da78b1",
+  "name": "Reasons to hire",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Product design is a mix of juggling business needs, visual appearance, and technical constraints 🤹🏽‍♀️ That’s why it\u0027s difficult, because you have to understand all three things to drive a successful product"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Because of my IS background, I approach product design in a holistic way by leveraging my knowledge in each of those segments, empathizing with both the user needs and the technical feasibility"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All in all, I\u0027m one of the most curious, driven, and passionate people you\u0027ll ever hire 🤓 Ready to talk to Rosie?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Let\u0027s talk!"
+                    },
+                    {
+                      "text": "What are your goals?"
+                    },
+                    {
+                      "text": "Tell me a fun fact"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

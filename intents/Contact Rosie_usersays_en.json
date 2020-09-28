@@ -1,0 +1,144 @@
+[
+  {
+    "id": "013d11a5-7e58-4082-bb9a-30769888d89c",
+    "data": [
+      {
+        "text": "email rosie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e377d27-6b0c-4903-9508-70cdae30a3bd",
+    "data": [
+      {
+        "text": "call ",
+        "userDefined": false
+      },
+      {
+        "text": "rosie",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f739677-2ba7-4830-a6c9-af008a786800",
+    "data": [
+      {
+        "text": "call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69e9be84-b8a6-4ffc-8ed2-21ef138f2d91",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0f93acf-2d7d-4112-a467-a5a1f29f57ca",
+    "data": [
+      {
+        "text": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c9bb4ab-77b8-4dcb-af9c-e195ab94b271",
+    "data": [
+      {
+        "text": "learn more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4454839e-aafe-4b58-8cda-24fabe3f9f48",
+    "data": [
+      {
+        "text": "contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8676e9e4-7ba4-492f-b0ef-bcf6a7353272",
+    "data": [
+      {
+        "text": "let\u0027s talk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f20f6bdf-e62e-4ff2-9900-1d4779ebff3d",
+    "data": [
+      {
+        "text": "let\u0027s get in touch!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed515b04-9bbc-452c-8e04-204d84fee1a7",
+    "data": [
+      {
+        "text": "ready to speak with ",
+        "userDefined": false
+      },
+      {
+        "text": "rosie",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

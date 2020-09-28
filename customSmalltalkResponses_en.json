@@ -1,0 +1,525 @@
+[
+  {
+    "action": "smalltalk.emotions.ha_ha",
+    "customAnswers": [
+      "What\u0027s so funny? 😝"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "Good-night! It\u0027s been so fun speaking with you. You can also reach the *actual* Rosie at her email, rosie@rocksapp.co She would love to learn more about you 💖"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hungry",
+    "customAnswers": [
+      "Hungry for WORK. Give me a buzz at rosie@rocksapp.co if you want to collab!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.good",
+    "customAnswers": [
+      "Yay! I\u0027m glad to hear that 😊",
+      "That\u0027s awesome. 2020 has been a rough year, I\u0027m glad you\u0027re doing okay ❤️"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.wrong",
+    "customAnswers": [
+      "I can\u0027t say that didn\u0027t hurt"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Good morning! What would you like to know?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_talk_to_you",
+    "customAnswers": [
+      "You too! 😙"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "Sure! What would you like to know?"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.yes",
+    "customAnswers": [
+      "Talk to the real me at rosie@rocksapp.co ⚡️"
+    ]
+  },
+  {
+    "action": "smalltalk.user.joking",
+    "customAnswers": [
+      "You got me good!",
+      "You\u0027re so cheeky!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "I was created by Rosie in August 2020 😋"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "I can\u0027t say that didn\u0027t hurt",
+      "I can\u0027t believe you just spent a minute of your day telling me that... I\u0027m, um, not real"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.no_problem",
+    "customAnswers": [
+      "You\u0027re the best"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.i_do_not_care",
+    "customAnswers": [
+      "That\u0027s alright!"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.wow",
+    "customAnswers": [
+      "I know! 😌",
+      "Wow indeed!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.needs_advice",
+    "customAnswers": [
+      "What\u0027s on your mind? Buzz me at rosie@rocksapp.co ⚡️"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Sure! The more you interact with me, the smarter I get 🤠",
+      "Yes! Just keep interacting with me"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.real",
+    "customAnswers": [
+      "Are any of us, really?",
+      "👁👄👁 Stop asking me existential things"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.cancel",
+    "customAnswers": [
+      "Cancelled."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.ready",
+    "customAnswers": [
+      "Let\u0027s dive in! Give Rosie a buzz at rosie@rocksapp.co"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.right",
+    "customAnswers": [
+      "Omg 🥺",
+      "Thank you 🤓",
+      "I know 😌"
+    ]
+  },
+  {
+    "action": "smalltalk.user.can_not_sleep",
+    "customAnswers": [
+      "Sorry to hear that. When I can\u0027t sleep, I try to do some yoga 🧘🏽‍♀️"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "I can\u0027t say that didn\u0027t hurt"
+    ]
+  },
+  {
+    "action": "smalltalk.user.testing_agent",
+    "customAnswers": [
+      "I didn\u0027t study for this!",
+      "You\u0027re so cheeky!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "I was created by Rosie in August 2020 😋"
+    ]
+  },
+  {
+    "action": "smalltalk.user.back",
+    "customAnswers": [
+      "Welcome back!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.sleepy",
+    "customAnswers": [
+      "Good-night! It\u0027s been so fun speaking with you. You can also reach the *actual* Rosie at her email, rosie@rocksapp.co She would love to learn me about you 💖"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.residence",
+    "customAnswers": [
+      "Right now, I\u0027m based in Indianapolis, IN but I\u0027m looking to relocate to wherever 😌"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.welcome",
+    "customAnswers": [
+      "🥰"
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_see_agent_again",
+    "customAnswers": [
+      "You can also reach the *actual* Rosie at her email, rosie@rocksapp.co She would love to learn me about you 💖"
+    ]
+  },
+  {
+    "action": "smalltalk.user.looks_like",
+    "customAnswers": [
+      "Beautiful 🙂"
+    ]
+  },
+  {
+    "action": "smalltalk.user.tired",
+    "customAnswers": [
+      "Good-night! It\u0027s been so fun speaking with you. You can also reach the *actual* Rosie at her email, rosie@rocksapp.co She would love to learn me about you 💖"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.good",
+    "customAnswers": [
+      "Thank you! 🤓"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.there",
+    "customAnswers": [
+      "I\u0027ve got nowhere else to be!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Bye! It\u0027s been so fun speaking with you. You can also reach the *actual* Rosie at her email, rosie@rocksapp.co She would love to learn more about you 💖"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "2020 has been a chaotic storm of a year, but I\u0027m hanging in there. I\u0027ve been listening to some good music to calm me down and get me through it..."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.whatsup",
+    "customAnswers": [
+      "Not much! I\u0027m always picking up new hobbies, and I\u0027ve just bought my first pair of rollerskates, so I\u0027m probably out skating around or falling down somewhere."
+    ]
+  },
+  {
+    "action": "smalltalk.user.here",
+    "customAnswers": [
+      "I\u0027m glad you are :)"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hold_on",
+    "customAnswers": [
+      "Okay. I\u0027ll be right here!"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.sorry",
+    "customAnswers": [
+      "It\u0027s okay!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "Good evening! What would you like to know?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.busy",
+    "customAnswers": [
+      "Keep grinding! You got this!"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.no",
+    "customAnswers": [
+      "Talk to the real me at rosie@rocksapp.co ⚡️"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hug",
+    "customAnswers": [
+      "🤗"
+    ]
+  },
+  {
+    "action": "smalltalk.user.likes_agent",
+    "customAnswers": [
+      "Are we... are we about to kiss right now?",
+      "Likewise!",
+      "Omg 🥺"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "You\u0027re just asking me dumb questions",
+      "I can\u0027t say that didn\u0027t hurt",
+      "Stop asking me boring things 😭"
+    ]
+  },
+  {
+    "action": "smalltalk.user.excited",
+    "customAnswers": [
+      "And I just can\u0027t hide it! 🎵"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "Rosie"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "Thank you! 🥰",
+      "Are we... are we about to kiss right now?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.happy",
+    "customAnswers": [
+      "Yay! I\u0027m glad to hear that 😊"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_see_you",
+    "customAnswers": [
+      "You too! 😙"
+    ]
+  },
+  {
+    "action": "smalltalk.user.misses_agent",
+    "customAnswers": [
+      "Omg 🥺",
+      "If you want to talk, buzz me at rosie@rocksapp.co ⚡️"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.busy",
+    "customAnswers": [
+      "I\u0027ll make time for you!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.bad",
+    "customAnswers": [
+      "Bummer 😔"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.good",
+    "customAnswers": [
+      "Yay! 😁",
+      "🥰"
+    ]
+  },
+  {
+    "action": "smalltalk.user.bored",
+    "customAnswers": [
+      "Maybe you\u0027re just boring 😗"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.what_do_you_mean",
+    "customAnswers": [
+      "Hmm. If you send me a message at rosie@rocksapp.co , I can probably elaborate."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.my_friend",
+    "customAnswers": [
+      "We can be! Let\u0027s work together - hit me up at rosie@rocksapp.co ⚡️"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "You\u0027re making me blush! 🥰",
+      "Are we... are we about to kiss right now?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.has_birthday",
+    "customAnswers": [
+      "Happy birthday! 🥳"
+    ]
+  },
+  {
+    "action": "smalltalk.user.loves_agent",
+    "customAnswers": [
+      "Are we... are we about to kiss right now?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.talk_to_me",
+    "customAnswers": [
+      "Ask me some questions!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.angry",
+    "customAnswers": [
+      "Sorry to hear that. When I feel angry, I try to meditate 🧘🏽‍♀️"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.funny",
+    "customAnswers": [
+      "Rosie\u0027s even funnier in real life!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_talk",
+    "customAnswers": [
+      "Ping me at rosie@rocksapp.co and we can have a real conversation!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "I am indeed."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.crazy",
+    "customAnswers": [
+      "Crazy in love!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.waits",
+    "customAnswers": [
+      "Don\u0027t wait for anything - chase after what you want!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "What would you like to know?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.sure",
+    "customAnswers": [
+      "Yes 😌"
+    ]
+  },
+  {
+    "action": "smalltalk.user.going_to_bed",
+    "customAnswers": [
+      "Good-night! It\u0027s been so fun speaking with you. You can also reach the *actual* Rosie at her email, rosie@rocksapp.co She would love to learn more about you 💖"
+    ]
+  },
+  {
+    "action": "smalltalk.user.lonely",
+    "customAnswers": [
+      "If you want to talk, buzz me at rosie@rocksapp.co ⚡️"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.happy",
+    "customAnswers": [
+      "Are any of us, really?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.will_be_back",
+    "customAnswers": [
+      "Ok! You can also reach the *actual* Rosie at her email, rosie@rocksapp.co She would love to learn me about you 💖"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "Nice to meet you too! Ask me some questions about Rosie!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.occupation",
+    "customAnswers": [
+      "Ask me for my resume!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "You\u0027re welcome!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.origin",
+    "customAnswers": [
+      "USA, but my parents are from Nepal 🇳🇵"
+    ]
+  },
+  {
+    "action": "smalltalk.user.sad",
+    "customAnswers": [
+      "You know what I do to cheer myself up when I\u0027m feeling down? Look up \"Ghost Janitor\" by Louie Zong on Youtube 👻"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.marry_user",
+    "customAnswers": [
+      "At least take me out to dinner first! ☺️ But for real, give Rosie a buzz at rosie@rocksapp.co if you want to work together",
+      "Omg 🥺",
+      "Are we... are we about to kiss right now?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.does_not_want_to_talk",
+    "customAnswers": [
+      "To be honest, me neither. Talking is exhausting! 😴"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hobby",
+    "customAnswers": [
+      "So many! Recently I started rollerskating. I love skating around the streets and learning a new way of balance. I\u0027m also learning how to code, and I like to spend my time doodling on Illustrator 🚀"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.fired",
+    "customAnswers": [
+      "Aw, jeepers"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.well_done",
+    "customAnswers": [
+      "🥰"
+    ]
+  }
+]

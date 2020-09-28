@@ -1,0 +1,76 @@
+{
+  "id": "16ec4489-d282-4821-8f95-ce3a214669da",
+  "parentId": "76d8c408-0b55-4ec2-8b20-c00cdab85d1c",
+  "rootParentId": "8f121c2c-1619-4fe9-adea-b677f3ac06a7",
+  "name": "Black Lives Matter - yes",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "✊🏽 Great! Let\u0027s get started"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ask me some questions!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Tell me about yourself"
+                    },
+                    {
+                      "text": "What are Rosie\u0027s skills?"
+                    },
+                    {
+                      "text": "Where have you worked?"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

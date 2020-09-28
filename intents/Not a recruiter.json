@@ -1,0 +1,72 @@
+{
+  "id": "e9749fc0-d662-4810-9b02-96617ce6bff1",
+  "parentId": "8f121c2c-1619-4fe9-adea-b677f3ac06a7",
+  "rootParentId": "8f121c2c-1619-4fe9-adea-b677f3ac06a7",
+  "name": "Not a recruiter",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-no-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I was trained on recruiter specific questions, but we can talk about some other things...",
+            "Ask me something about myself, or ask me for some music recommendations!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "text": "What\u0027s your favorite movie?"
+                    },
+                    {
+                      "text": "What\u0027s your sign?"
+                    },
+                    {
+                      "text": "Tell me a fun fact about you"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

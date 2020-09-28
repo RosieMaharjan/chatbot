@@ -1,0 +1,44 @@
+{
+  "id": "a5d8cc00-476b-490a-b576-f9b0ed3c5376",
+  "parentId": "76d8c408-0b55-4ec2-8b20-c00cdab85d1c",
+  "rootParentId": "8f121c2c-1619-4fe9-adea-b677f3ac06a7",
+  "name": "Black Lives Matter - no",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-no",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-yes-no-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you so much for your consideration. Unfortunately, I don\u0027t think that I would be a good company culture fit for this role. I appreciate your time and interest!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

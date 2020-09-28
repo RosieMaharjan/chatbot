@@ -1,0 +1,106 @@
+[
+  {
+    "id": "6907704c-43df-4e7b-8638-23eb35a49709",
+    "data": [
+      {
+        "text": "where",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58982598-a249-4bf5-a625-bb1b3efb2af0",
+    "data": [
+      {
+        "text": "cover letter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eeecc45a-29c8-416d-ae60-a5bf9ca4844e",
+    "data": [
+      {
+        "text": "CV",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06b81403-c2a5-4970-bcd5-8ec9718296c8",
+    "data": [
+      {
+        "text": "work history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "625555d0-9b8a-4203-9165-d085e9e34f10",
+    "data": [
+      {
+        "text": "history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faafea87-61c4-41ed-aef1-8ade61894e20",
+    "data": [
+      {
+        "text": "work past",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91decee5-2526-4ab7-916e-1f0831197eb6",
+    "data": [
+      {
+        "text": "Where have you worked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7504ff1-fcb5-475a-921b-1a8454086729",
+    "data": [
+      {
+        "text": "resume",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

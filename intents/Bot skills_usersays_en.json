@@ -1,0 +1,54 @@
+[
+  {
+    "id": "aa957797-0af2-4280-9920-bc89ced1bd88",
+    "data": [
+      {
+        "text": "about this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fada5b62-c063-4bc7-a575-afdfd89e5105",
+    "data": [
+      {
+        "text": "bot skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72641ab1-1c6d-4576-9012-7799dae75468",
+    "data": [
+      {
+        "text": "what does this do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "519e6776-c5f7-48ea-9ea1-acc7dc589030",
+    "data": [
+      {
+        "text": "what can you do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

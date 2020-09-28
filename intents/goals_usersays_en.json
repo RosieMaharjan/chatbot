@@ -1,0 +1,67 @@
+[
+  {
+    "id": "015045f2-1921-4d2a-8c15-102a283d31e7",
+    "data": [
+      {
+        "text": "what are your goals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a1c27aa-be07-4df6-9fa3-fc0129e86911",
+    "data": [
+      {
+        "text": "goals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a45fb37-c859-46ea-af3e-92cb89343115",
+    "data": [
+      {
+        "text": "goal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77e564de-e442-4d6e-9749-3462c34b04e1",
+    "data": [
+      {
+        "text": "What are your career goals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65082d0a-2637-406a-b0c6-56a2c58a1508",
+    "data": [
+      {
+        "text": "What do you want from your professional life?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

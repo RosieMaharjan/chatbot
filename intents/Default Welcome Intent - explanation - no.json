@@ -1,0 +1,69 @@
+{
+  "id": "2c1f701c-b45f-438d-aa2c-b1268e51d5aa",
+  "parentId": "b8e7b1df-6249-46d4-a38a-162ba3590cf4",
+  "rootParentId": "8f121c2c-1619-4fe9-adea-b677f3ac06a7",
+  "name": "Default Welcome Intent - explanation - no",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-explanation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-no.DefaultWelcomeIntent-yes-no-more.DefaultWelcomeIntent-explanation-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It definitely seems like you need it."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "text": "Why ALM is a harmful response",
+                      "link": "https://www.cbsnews.com/news/all-lives-matter-black-lives-matter/"
+                    },
+                    {
+                      "link": "https://chainsawsuit.com/comic/2016/07/07/all-houses-matter-the-extended-cut/",
+                      "text": "\u0027All Houses Matter\u0027 analogy"
+                    },
+                    {
+                      "link": "https://www.youtube.com/watch?v\u003dFk7ikGW6VRg",
+                      "text": "BLM Video Explanation"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

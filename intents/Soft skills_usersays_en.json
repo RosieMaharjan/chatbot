@@ -1,0 +1,80 @@
+[
+  {
+    "id": "08fc38ab-6149-4877-8c06-4e886289450c",
+    "data": [
+      {
+        "text": "more skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ebbe79d-f04e-4059-ab91-d0bef9920ae3",
+    "data": [
+      {
+        "text": "how do you communicate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1be54fc8-eb0b-405d-a66a-75518239a2bd",
+    "data": [
+      {
+        "text": "soft skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fed5aaa-4d12-4689-b6fd-5918d0c4c02a",
+    "data": [
+      {
+        "text": "What are your interpersonal skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8813aae-92dd-4daa-8d36-e49cb628d2ff",
+    "data": [
+      {
+        "text": "communication skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c75a91b-229f-49e7-aba2-7a8afd29bbcd",
+    "data": [
+      {
+        "text": "What are your soft skills?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

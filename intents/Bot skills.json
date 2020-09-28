@@ -1,0 +1,35 @@
+{
+  "id": "18222be5-6aea-4132-8251-fa2175a1439d",
+  "name": "Bot skills",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I’m a little chatbot designed by Rosie to help answer any questions that recruiters might have to help her job search 🤖 I’m just like Rosie, except that my algorithm isn’t ashamed to brag about her. Ask away!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

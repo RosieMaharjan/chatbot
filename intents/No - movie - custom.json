@@ -1,0 +1,39 @@
+{
+  "id": "043e52e0-2e7b-4049-89d4-5329ce894a75",
+  "parentId": "668e57b6-250f-4640-b7ef-2c3e201cacf6",
+  "rootParentId": "668e57b6-250f-4640-b7ef-2c3e201cacf6",
+  "name": "No - movie - custom",
+  "auto": true,
+  "contexts": [
+    "No-movie-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "No-movie.No-movie-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cool! 😄"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
